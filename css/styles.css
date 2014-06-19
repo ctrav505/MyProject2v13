@@ -134,7 +134,7 @@ position: relative;
 footer{
 	width: 97%;
 	background-color: #C2CECA;
-	min-height: 100px;
+	min-height: 102px;
 	margin: 0% 1% 1% 12px;
 	position: relative;
 	font-size: 18px;
@@ -316,7 +316,7 @@ th, td{
 position: relative;
 	float: right;
 	bottom: 251px;
-	right:28px;
+	right:11px;
 	border: 0px solid;
     border-radius: 10px;
 
