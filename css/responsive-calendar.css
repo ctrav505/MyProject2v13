@@ -3,7 +3,7 @@
 
   width: 460px;
   float: right;
-  position: absolute;
+  position: static;
   left: 836px;
   top: 357px;
   background-color: #C2CECA;
